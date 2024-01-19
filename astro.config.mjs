@@ -5,7 +5,8 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
+	title: "labveiltech",
 	site: 'https://vitpinto.github.io',
-	base: '/labveiltech',
+	//base: '/labveiltech',
 	integrations: [mdx(), sitemap()],
 });
