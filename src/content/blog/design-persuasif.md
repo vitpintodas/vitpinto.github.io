@@ -1,7 +1,7 @@
 ---
 title: 'Design persuasif'
 description: "Exploration du design persuasif et de l'attention dans le numérique, soulignant leur impact sur nos choix en ligne"
-pubDate: 'Jul 01 2022'
+pubDate: 'Jan 21 2024'
 heroImage: '/blog-placeholder-1.jpg'
 ---
 
