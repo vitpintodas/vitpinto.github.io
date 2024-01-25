@@ -2,7 +2,7 @@
 title: 'Les Dark Patterns dans le Design Numérique'
 description: "Exploration des dark patterns en design numérique, révélant comment ils manipulent les choix des utilisateurs et remettent en question l'éthique."
 pubDate: 'Jan 21 2024'
-heroImage: 'hero-image.png'
+heroImage: '/hero-image.png'
 ---
 
 ## Qu'est-ce qu'un Dark Pattern ?
