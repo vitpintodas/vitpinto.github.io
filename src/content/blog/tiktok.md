@@ -2,7 +2,7 @@
 title: "TikTok et les Dark Patterns : Une Analogie avec l'Expérience de Skinner"
 description: "Analyse des dark patterns de TikTok et leur lien avec l'expérience de Skinner, révélant l'influence sur le comportement des utilisateurs."
 pubDate: 'Jan 21 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/hero-image.png'
 ---
 
 ## Introduction

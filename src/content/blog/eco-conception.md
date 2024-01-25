@@ -2,7 +2,7 @@
 title: 'Éco-conception'
 description: "Analyse de l'éco-conception en numérique, soulignant son rôle crucial pour l'environnement et son potentiel d'innovation."
 pubDate: 'Jul 01 2022'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/hero-image.png'
 ---
 
 Dans l'ère numérique actuelle, l'éco-conception devient une priorité, notamment en raison de l'impact croissant des produits numériques sur l'environnement. En 2019, le secteur numérique était responsable de 4% des émissions mondiales de gaz à effet de serre. Chiffre qui est estimé à doubler d'ici 2025. Face à ces chiffres, l'approche éco-consciente dans la conception de produits numériques est essentielle.

@@ -2,7 +2,7 @@
 title: 'Design persuasif'
 description: "Exploration du design persuasif et de l'attention dans le numérique, soulignant leur impact sur nos choix en ligne"
 pubDate: 'Jan 21 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/hero-image.png'
 ---
 
 À l'ère du numérique où nous sommes sollicités en tout temps, l'attention des utilisateus est la denrée la plus préciseuse qui existe et dont tout le monde veut s'en approprier. C'est ce qu'exprimait déjà le PDG de TF1 en 2004 lorsqu'il disait que ce qu'ils vendaient à Coca-Cola, c'était du temps de cerveau disponible.

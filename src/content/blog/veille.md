@@ -2,7 +2,7 @@
 title: 'Système de veille'
 description: "Explication de mon système de veille."
 pubDate: 'Jan 25 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/hero-image.png'
 ---
 
 ## Introduction à la Veille

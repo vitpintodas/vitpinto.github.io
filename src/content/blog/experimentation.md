@@ -2,7 +2,7 @@
 title: 'YouTube sans dark patterns'
 description: "Experimentation d'une utilisation de YouTube dans dark patterns."
 pubDate: 'Jan 22 2024'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/hero-image.png'
 ---
 
 ## Introduction
